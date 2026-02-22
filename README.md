@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-
 # Wei Wang / onevcat
 
 iOS / Swift engineer · OSS maintainer · product builder
@@ -44,3 +42,5 @@ iOS / Swift engineer · OSS maintainer · product builder
 ## Links
 
 - 🏠 [onev.cat](https://onev.cat)
+- 𝕏 [X](https://x.com/onevcat)
+- 📮 [Email](mailto:onev@onevcat.com)

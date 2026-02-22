@@ -26,6 +26,8 @@ iOS / Swift engineer · OSS maintainer · product builder
 ### Archive
 
 - 🧬 [ChimeraGate](https://github.com/onevcat/ChimeraGate) (2025) — Bridge Claude Code subscription access into an OpenAI API-compatible provider endpoint.
+- 👁️ [ObservationBP](https://github.com/onevcat/ObservationBP) (2023) — Proof of concept for back-porting the Observation framework to earlier iOS versions.
+- 🧩 [Delegate](https://github.com/onevcat/Delegate) (2021) — A meta library to provide a better `Delegate` pattern.
 - 🦉 [Hedwig](https://github.com/onevcat/Hedwig) (2016) — A Swift SMTP library for sending email in a clean cross-platform manner.
 - 📝 [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) (2013) — An Xcode plug-in that speeds up writing structured documentation comments.
 

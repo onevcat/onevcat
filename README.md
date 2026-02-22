@@ -16,6 +16,7 @@ iOS / Swift engineer · OSS maintainer · product builder
 - 🎨 [vs2x](https://github.com/onevcat/vs2x) (2025) — Convert VS Code themes into Xcode-ready themes with minimal manual tweaking.
 - 🎨 [Chroma](https://github.com/onevcat/Chroma) (2025) — Syntax highlighting engine for Swift TUI and CLI applications.
 - 🐊 [Croc24](https://croc24.onevcat.com/) (2025) — Little Croc 24: a playful app for 24-point calculation, puzzles, and challenge runs.
+- 🧩 [Delegate](https://github.com/onevcat/Delegate) (2021) — A meta library to provide a better `Delegate` pattern.
 - 📚 [ObjC CN](https://objccn.io/) (2019) — Website source and publishing infrastructure for objc.io China content.
 - 🌐 [UniWebView](https://uniwebview.com) (2017) — A long-running web view solution for Unity projects across major platforms.
 - 🪶 [Kingfisher](https://github.com/onevcat/Kingfisher) (2015) — A high-performance image downloading and caching library for modern Swift apps.
@@ -27,7 +28,6 @@ iOS / Swift engineer · OSS maintainer · product builder
 
 - 🧬 [ChimeraGate](https://github.com/onevcat/ChimeraGate) (2025) — Bridge Claude Code subscription access into an OpenAI API-compatible provider endpoint.
 - 👁️ [ObservationBP](https://github.com/onevcat/ObservationBP) (2023) — Proof of concept for back-porting the Observation framework to earlier iOS versions.
-- 🧩 [Delegate](https://github.com/onevcat/Delegate) (2021) — A meta library to provide a better `Delegate` pattern.
 - 🦉 [Hedwig](https://github.com/onevcat/Hedwig) (2016) — A Swift SMTP library for sending email in a clean cross-platform manner.
 - 📝 [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) (2013) — An Xcode plug-in that speeds up writing structured documentation comments.
 

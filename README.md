@@ -13,18 +13,15 @@ iOS / Swift engineer · OSS maintainer · product builder
 - 🤖 [Oh My Agents](https://oh-my-agents.app/) (2026) — Centrally manage skills and prompt configurations across AI agents and projects; use one source of truth to keep multiple target agents in sync.
 - 🦀 [TransCrab](https://github.com/onevcat/transcrab) (2026) — Built OpenClaw-first: fetch and translate links into clean, focused pages in your own language.
 - 🦭 [seal](https://github.com/onevcat/seal) (2026) — An AGE encryption toolkit for securely passing sensitive information between agents and terminal devices during agent conversations.
-
 - 🚢 [ai-ship](https://github.com/onevcat/ai-ship) (2025) — Notes and reflections while exploring AI workflows, prompts, and interaction patterns.
 - 🔗 [Magpie](https://github.com/onevcat/Magpie) (2025) — A lightweight link collection and sharing system, designed for simple self-hosting.
 - 🎨 [vs2x](https://github.com/onevcat/vs2x) (2025) — Convert VS Code themes into Xcode-ready themes with minimal manual tweaking.
 - 🎨 [Chroma](https://github.com/onevcat/Chroma) (2025) — Syntax highlighting engine for Swift TUI and CLI applications.
-
 - 🌐 [UniWebView](https://uniwebview.com) (2017) — A long-running web view solution for Unity projects across major platforms.
 - 🪶 [Kingfisher](https://github.com/onevcat/Kingfisher) (2015) — A high-performance image downloading and caching library for modern Swift apps.
 - 🌈 [Rainbow](https://github.com/onevcat/Rainbow) (2015) — A lightweight ANSI styling library for delightful Swift console output.
 - 🖼️ [APNGKit](https://github.com/onevcat/APNGKit) (2015) — A high-performance APNG playback framework for Apple platform applications.
 - 🧹 [FengNiao](https://github.com/onevcat/FengNiao) (2014) — A CLI tool to detect and clean unused image assets in Xcode projects.
-
 - 🐊 [Croc24](https://croc24.onevcat.com/) (2025) — Little Croc 24: a playful app for 24-point calculation, puzzles, and challenge runs.
 - 📚 [ObjC CN](https://objccn.io/) (2019) — Website source and publishing infrastructure for objc.io China content.
 
@@ -46,4 +43,4 @@ iOS / Swift engineer · OSS maintainer · product builder
 
 ## Links
 
-- 🏠 https://onev.cat
+- 🏠 [onev.cat](https://onev.cat)

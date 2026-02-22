@@ -37,7 +37,7 @@ iOS / Swift engineer · OSS maintainer · product builder
 ## Collections
 
 - 🦀 [TransCrab](https://transcrab.onev.cat) — A clean, translated reading shelf built around links.
-- 📓 [mewmoire](https://claw.onev.cat/) — A public diary of building and learning.
+- 📓 [mewmoire](https://claw.onev.cat/) — A public diary of <@1467437885874638939>, writing about building and learning.
 
 ## Links
 

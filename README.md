@@ -33,8 +33,8 @@ iOS / Swift engineer · OSS maintainer · product builder
 
 ## Writing
 
-- 🚢 [In AI for the Ride](https://ai.onev.cat) — Notes and reflections on AI workflows, prompts, and interaction patterns.
 - ✍️ [Blog](https://onevcat.com) — Essays on Swift/iOS, engineering, and building with AI.
+- 🚢 [In AI for the Ride](https://ai.onev.cat) — Notes and reflections on AI workflows, prompts, and interaction patterns.
 
 ## Collections
 

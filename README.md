@@ -42,5 +42,5 @@ iOS / Swift engineer · OSS maintainer · product builder
 ## Links
 
 - 🏠 [onev.cat](https://onev.cat)
-- 𝕏 [X](https://x.com/onevcat)
+- 𝕏 [@onevcat](https://x.com/onevcat)
 - 📮 [Email](mailto:onev@onevcat.com)

@@ -38,6 +38,7 @@ iOS / Swift engineer · OSS maintainer · product builder
 
 ## Collections
 
+- 🐦‍⬛ [Magpie](https://onevcat.link/) — A lightweight link collection and sharing shelf.
 - 🦀 [TransCrab](https://transcrab.onev.cat) — A clean, translated reading shelf built around links.
 - 📓 [mewmoire](https://claw.onev.cat/) — A public diary of @onevclaw, writing about building and learning.
 

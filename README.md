@@ -8,6 +8,7 @@ iOS / Swift engineer · OSS maintainer · product builder
 
 - 📬 [Xin](https://github.com/onevcat/xin) (2026) — A JMAP command-line tool that gives AI agents a native and efficient way to access Fastmail or any JMAP API-compatible mail provider.
 - 🐱 [MeetCat](https://github.com/onevcat/MeetCat) (2026) — A Google Meet assistant that auto-joins meetings and manages microphone and camera settings.
+- 🆚 [YiTong](https://github.com/onevcat/YiTong) (2026) — A native diff rendering library for Apple platforms, wrapping @pierre/diffs with SwiftUI and UIKit/AppKit APIs.
 - 🤖 [Oh My Agents](https://oh-my-agents.app/) (2026) — Centrally manage skills and prompt configurations across AI agents and projects; use one source of truth to keep multiple target agents in sync.
 - 🦀 [TransCrab](https://github.com/onevcat/transcrab) (2026) — Built OpenClaw-first: fetch and translate links into clean, focused pages in your own language.
 - 🦭 [seal](https://github.com/onevcat/seal) (2026) — An AGE encryption toolkit for securely passing sensitive information between agents and terminal devices during agent conversations.

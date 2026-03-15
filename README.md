@@ -6,7 +6,7 @@ iOS / Swift engineer · OSS maintainer · product builder
 
 ### Active
 
-- 🆚 [YiTong](https://github.com/onevcat/YiTong) (2026) — A native diff rendering library for Apple platforms, wrapping @pierre/diffs with SwiftUI and UIKit/AppKit APIs.
+- 🆚 [YiTong](https://github.com/onevcat/YiTong) (2026) — A diff rendering library for Apple platforms, wrapping @pierre/diffs in a WKWebView-backed SwiftUI and UIKit/AppKit API.
 - 📬 [Xin](https://github.com/onevcat/xin) (2026) — A JMAP command-line tool that gives AI agents a native and efficient way to access Fastmail or any JMAP API-compatible mail provider.
 - 🐱 [MeetCat](https://github.com/onevcat/MeetCat) (2026) — A Google Meet assistant that auto-joins meetings and manages microphone and camera settings.
 - 🤖 [Oh My Agents](https://oh-my-agents.app/) (2026) — Centrally manage skills and prompt configurations across AI agents and projects; use one source of truth to keep multiple target agents in sync.

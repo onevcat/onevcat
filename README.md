@@ -6,6 +6,7 @@ iOS / Swift engineer · OSS maintainer · product builder
 
 ### Active
 
+- 💻 [Prowl](https://prowl.onev.cat/) (2026) — A native macOS command center for terminal coding agents, focused on worktrees, diffs, and PR-driven workflows.
 - 🆚 [YiTong](https://github.com/onevcat/YiTong) (2026) — A diff rendering library for Apple platforms, wrapping @pierre/diffs in a WKWebView-backed SwiftUI and UIKit/AppKit API.
 - 📬 [Xin](https://github.com/onevcat/xin) (2026) — A JMAP command-line tool that gives AI agents a native and efficient way to access Fastmail or any JMAP API-compatible mail provider.
 - 🐱 [MeetCat](https://github.com/onevcat/MeetCat) (2026) — A Google Meet assistant that auto-joins meetings and manages microphone and camera settings.

@@ -6,6 +6,7 @@ iOS / Swift engineer · OSS maintainer · product builder
 
 ### Active
 
+- 🪢 [tang](https://tangled.org/onev.cat/tang) (2026) — A command-line interface for Tangled, the decentralized repository platform built on AT Protocol; manage repos, issues, pull requests, and SSH keys from the terminal.
 - 🗣️ [argue](https://github.com/onevcat/argue) (2026) — A structured multi-agent debate engine. Multiple AI agents analyze the same question, cross-examine each other, and vote to produce evidence-backed conclusions with dissent and confidence scores.
 - 💻 [Prowl](https://prowl.onev.cat/) (2026) — A native macOS command center for terminal coding agents, focused on worktrees, diffs, and PR-driven workflows.
 - 🆚 [YiTong](https://github.com/onevcat/YiTong) (2026) — A diff rendering library for Apple platforms, wrapping @pierre/diffs in a WKWebView-backed SwiftUI and UIKit/AppKit API.
